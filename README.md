@@ -20,8 +20,7 @@ A responsive React app that displays real-time cryptocurrency data with dark mod
 
 ## 🖼️ Screenshot
 
-> _Add your screenshot here once you've got one!_  
-> (Name it `screenshot.png` and place it in the root of your repo)
+
 
 📄 License
 
