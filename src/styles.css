@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+  }
+  
+  .light-mode {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #444;
+  }
+  
+  img {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  
+  
+  
+  
